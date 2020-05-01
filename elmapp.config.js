@@ -1,3 +1,3 @@
 module.exports = {
-  homepage: "https://StefanRadusi.github.io/mycareer",
+  homepage: "https://mycareer.digital/",
 };
