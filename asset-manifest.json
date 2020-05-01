@@ -7,9 +7,10 @@
   "vendors~main.js": "/mycareer/static/js/vendors~main.7aa09ec8.chunk.js",
   "vendors~main.js.map": "/mycareer/static/js/vendors~main.7aa09ec8.chunk.js.map",
   "./service-worker.js": "/mycareer/./service-worker.js",
+  "CNAME": "/mycareer/CNAME",
   "favicon.ico": "/mycareer/favicon.ico",
   "index.html": "/mycareer/index.html",
   "logo.svg": "/mycareer/logo.svg",
   "manifest.json": "/mycareer/manifest.json",
-  "precache-manifest.26b3fb3e475c3ffbd9837b6fe1217af4.js": "/mycareer/precache-manifest.26b3fb3e475c3ffbd9837b6fe1217af4.js"
+  "precache-manifest.89c00381e222197c3952a5997c556fd9.js": "/mycareer/precache-manifest.89c00381e222197c3952a5997c556fd9.js"
 }
