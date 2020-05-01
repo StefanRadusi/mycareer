@@ -1,0 +1,25 @@
+{
+  "name": "mycareer",
+  "version": "1.0.0",
+  "description": " an app for build your digital cv in elm",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "elm-app start",
+    "build": "elm-app build",
+    "deploy": "elm-app build && gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanRadusi/mycareer.git"
+  },
+  "keywords": [
+    "elm",
+    "spa"
+  ],
+  "author": "StefanRadusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanRadusi/mycareer/issues"
+  },
+  "homepage": "https://github.com/StefanRadusi/mycareer#readme"
+}
