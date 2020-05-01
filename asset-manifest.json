@@ -1,0 +1,15 @@
+{
+  "main.css": "/mycareer/static/css/main.22aacad8.chunk.css",
+  "main.js": "/mycareer/static/js/main.8018d8ae.chunk.js",
+  "main.js.map": "/mycareer/static/js/main.8018d8ae.chunk.js.map",
+  "runtime~main.js": "/mycareer/static/js/runtime~main.cc2578e6.js",
+  "runtime~main.js.map": "/mycareer/static/js/runtime~main.cc2578e6.js.map",
+  "vendors~main.js": "/mycareer/static/js/vendors~main.7aa09ec8.chunk.js",
+  "vendors~main.js.map": "/mycareer/static/js/vendors~main.7aa09ec8.chunk.js.map",
+  "./service-worker.js": "/mycareer/./service-worker.js",
+  "favicon.ico": "/mycareer/favicon.ico",
+  "index.html": "/mycareer/index.html",
+  "logo.svg": "/mycareer/logo.svg",
+  "manifest.json": "/mycareer/manifest.json",
+  "precache-manifest.26b3fb3e475c3ffbd9837b6fe1217af4.js": "/mycareer/precache-manifest.26b3fb3e475c3ffbd9837b6fe1217af4.js"
+}
