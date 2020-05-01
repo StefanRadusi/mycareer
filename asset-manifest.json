@@ -7,10 +7,11 @@
   "vendors~main.js": "/static/js/vendors~main.7aa09ec8.chunk.js",
   "vendors~main.js.map": "/static/js/vendors~main.7aa09ec8.chunk.js.map",
   "./service-worker.js": "/./service-worker.js",
+  "404.html": "/404.html",
   "CNAME": "/CNAME",
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
-  "precache-manifest.4bc7bc398b4b20eadcfa4b3f33432601.js": "/precache-manifest.4bc7bc398b4b20eadcfa4b3f33432601.js"
+  "precache-manifest.73b2b7bd21e88a2da4b03f7c4ee6f320.js": "/precache-manifest.73b2b7bd21e88a2da4b03f7c4ee6f320.js"
 }
